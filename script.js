@@ -1,3 +1,4 @@
+/* bbauska/image-to-SVG/js/script.js for image-to-SVG.bauska.org */
 console.clear();
 console.time = console.time || function(){};
 console.timeEnd = console.timeEnd || function(){};
